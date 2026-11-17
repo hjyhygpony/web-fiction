@@ -1,5 +1,7 @@
 # Web Fiction: 10 分钟速通 Web 前端
 
+![首页预览](docs/preview.png)
+
 一个纯 HTML/CSS/JavaScript 的交互叙事网页。故事以“10 分钟速通 Web 前端”为设定，通过按钮、隐藏文本、章节跳转和状态切换推进剧情。
 
 ## 功能
@@ -49,3 +51,4 @@ web-fiction/
 ## 说明
 
 这是早期 Web 前端练习项目，主要展示 DOM 操作、CSS 样式和章节式交互。页面没有后端依赖。
+
